@@ -59,5 +59,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d021791c4a2b8a2d",
+        "key": "sgnexon",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
