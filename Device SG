@@ -125,4 +125,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d80ff3c1e50035be",
+        "key": "sgsahil",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
