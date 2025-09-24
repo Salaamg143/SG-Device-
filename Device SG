@@ -53,5 +53,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "03b7926f00096aef",
+        "key": "sgflirty",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
