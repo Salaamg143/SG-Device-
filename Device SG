@@ -131,4 +131,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "432b0387d9a7c512",
+        "key": "sgalone",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
