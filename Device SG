@@ -65,5 +65,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "fb2773654b2da34a",
+        "key": "sgkashyap",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
