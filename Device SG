@@ -155,5 +155,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "2d96dc4948e15d43",
+        "key": "sghater",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
