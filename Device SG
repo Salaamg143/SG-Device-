@@ -161,5 +161,17 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "b1cc9fd35a195486",
+        "key": "sglove",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "70e40ffa6d8333ea",
+        "key": "sgheart",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
