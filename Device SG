@@ -137,4 +137,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "7bec5c75a43b8ac7",
+        "key": "sgarman",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
