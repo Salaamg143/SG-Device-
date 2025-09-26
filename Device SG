@@ -191,6 +191,12 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "32b6b827b2918d5c",
+        "key": "sgapna",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 
 ]
