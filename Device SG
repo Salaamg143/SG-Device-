@@ -173,5 +173,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "395a197bf3515812",
+        "key": "sgsaki",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
