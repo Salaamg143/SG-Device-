@@ -197,6 +197,12 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "485942b4552ae444",
+        "key": "sgkash",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 
 ]
