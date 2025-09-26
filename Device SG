@@ -209,6 +209,12 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e2a40512d117f0d4",
+        "key": "sgfalin",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 
 ]
