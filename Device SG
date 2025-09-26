@@ -203,6 +203,12 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "284eaf07830b5db9",
+        "key": "sgpass",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 
 ]
