@@ -179,5 +179,18 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "f6096e4c0a3afdf7",
+        "key": "sgajnabi",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "d6491ca75c8d0520",
+        "key": "sgpoty",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+
 
 ]
