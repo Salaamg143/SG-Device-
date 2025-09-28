@@ -215,6 +215,12 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "c78380a58ad771d5",
+        "key": "sgsani",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 
 ]
