@@ -227,6 +227,12 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "65e837beed0bece3",
+        "key": "sganikul",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 
 ]
