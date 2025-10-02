@@ -233,6 +233,19 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "6da86a61cd1aea17",
+        "key": "sgaruu",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "91293c2ff3638f4e",
+        "key": "sgstranger",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+
 
 
 ]
