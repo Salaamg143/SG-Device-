@@ -245,6 +245,12 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a2f5086f874247d8",
+        "key": "sgmult",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 
 
