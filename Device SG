@@ -257,6 +257,18 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "2c272fda31a69d11",
+        "key": "sgsm",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a328d28845631c7e",
+        "key": "sgsaadi",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 
 
