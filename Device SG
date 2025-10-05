@@ -275,5 +275,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
-
+    {
+        "device_id": "c8a58a67f9b62f26",
+        "key": "sgeclin",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
