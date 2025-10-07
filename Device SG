@@ -287,4 +287,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "0cffd10c33951911",
+        "key": "sgegypth",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
