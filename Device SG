@@ -293,4 +293,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "4f54dc4a4afc9c79",
+        "key": "sgshift",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
