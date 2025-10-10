@@ -310,5 +310,11 @@
         "key": "sgraju",
         "expirydate": "15-06-2026",
         "Allowoffline": true
+    },    
+    {
+        "device_id": "ba10294823d106a2",
+        "key": "sgishq",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
     },
 ]
