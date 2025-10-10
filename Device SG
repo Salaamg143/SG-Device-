@@ -299,4 +299,16 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "dd856446e0d700df",
+        "key": "sgrichi",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },    
+    {
+        "device_id": "a328d28845631c7e",
+        "key": "sgraju",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
