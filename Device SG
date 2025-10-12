@@ -383,4 +383,16 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "5dc71db9a6131492",
+        "key": "sgsuchi",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "67edf33cbe06dbc1",
+        "key": "sgbutter",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
