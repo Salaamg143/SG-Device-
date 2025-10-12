@@ -395,4 +395,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "220c2ce0f939a67b",
+        "key": "sgaddi",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
