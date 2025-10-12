@@ -268,7 +268,7 @@
         "key": "sgsaadi",
         "expirydate": "15-06-2026",
         "Allowoffline": true
-    },    
+    },   
     {
         "device_id": "69bd0e6deba7ac7b",
         "key": "sgnasha",
@@ -332,6 +332,12 @@
     {
         "device_id": "27237b7cd1d87272",
         "key": "sgyogi",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "1fe606c5aafbdd1d",
+        "key": "sghuzaifa",
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
