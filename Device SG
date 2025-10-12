@@ -347,4 +347,16 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "88a0246869dc9d0b",
+        "key": "sgmafia",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "1be1801077fd669d",
+        "key": "sgkunal",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
