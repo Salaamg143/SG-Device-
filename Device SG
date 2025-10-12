@@ -340,5 +340,11 @@
         "key": "sghuzaifa",
         "expirydate": "15-06-2026",
         "Allowoffline": true
+    },    
+    {
+        "device_id": "29049aad4956a3fc",
+        "key": "sgsmsg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
     },
 ]
