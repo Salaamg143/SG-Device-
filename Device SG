@@ -359,4 +359,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "221e282a03e4d8c0",
+        "key": "sgmoon",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
