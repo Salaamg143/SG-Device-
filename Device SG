@@ -365,4 +365,22 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "91293c2ff3638f4e",
+        "key": "sgstran",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "4dbe186c01cfabf2",
+        "key": "sgmunni",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "5b4782ec32c4afa5",
+        "key": "sganki",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
