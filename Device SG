@@ -329,4 +329,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "27237b7cd1d87272",
+        "key": "sgyogi",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
