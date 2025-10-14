@@ -419,4 +419,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "b8230417a1c4cf5b",
+        "key": "sgsmily",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
