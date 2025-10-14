@@ -437,4 +437,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1f37b138f441c10b",
+        "key": "sghotty",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
