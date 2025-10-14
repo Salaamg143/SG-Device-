@@ -431,4 +431,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "98be433fd76bee00",
+        "key": "sgvaan",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
