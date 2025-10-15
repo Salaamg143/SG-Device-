@@ -449,4 +449,16 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "2593c1ab8badf927",
+        "key": "sgyattti",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ce8bc053bbf413be",
+        "key": "sgheartssg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
