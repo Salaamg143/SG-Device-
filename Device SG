@@ -485,4 +485,34 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e65583c525fd757f",
+        "key": "sgsadiaw",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "09e4c7499b1f2f88",
+        "key": "sgahan",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ce8bc053bbf413be",
+        "key": "sgviikaas",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "432b0387d9a7c512",
+        "key": "sgalones",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "5e34a76fe445b593",
+        "key": "sgchinna",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
