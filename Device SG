@@ -539,4 +539,16 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d11afaa62ce45c23",
+        "key": "sgladla1",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "f02cb2339c988cb4",
+        "key": "sgrebel1",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
