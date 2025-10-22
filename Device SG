@@ -557,4 +557,22 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "bcd9166d7eb8eca2",
+        "key": "sgsuhelz",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "57a1843b31316f00",
+        "key": "sgrehmat",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "bfe5e8ccb051cf01",
+        "key": "sgmrmax",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
