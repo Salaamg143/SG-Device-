@@ -593,4 +593,34 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "61c0f599a8b07c9e",
+        "key": "sgaadizv",
+        "expirydate": "15-06-2026",
+        "Allowoffline":  true
+    },    
+    {
+        "device_id": "e8ce5fcfb2edf6a9",
+        "key": "sgolivers",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },    
+    {
+        "device_id": "f0d39283d4aeec98",
+        "key": "sgpalak",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },    
+    {
+        "device_id": "eebeb782af6cc35a",
+        "key": "sgyourcrush",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "f3b408af301d1549",
+        "key": "sgaayuu",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
