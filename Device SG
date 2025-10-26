@@ -641,4 +641,16 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "0dcd265a029ca856",
+        "key": "sgsrikant",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "5175e0770c148f8f",
+        "key": "sgpujari",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
