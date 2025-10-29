@@ -689,4 +689,28 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "553c6e091dadd303",
+        "key": "sgdeepv",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "2e705b9862525baf",
+        "key": "sgkrishnazx",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "066ed07bde0be40e",
+        "key": "sganamsa",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "feb45599bb767f7b",
+        "key": "sgsuriyasf",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
