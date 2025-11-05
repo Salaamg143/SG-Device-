@@ -737,4 +737,16 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1033d4c16c801e1c",
+        "key": "sgshanisg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "60c0c16ff12dad51",
+        "key": "sgayanmalik",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
