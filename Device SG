@@ -749,4 +749,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ff5aa410fcefb0e6",
+        "key": "sgmayajain",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
