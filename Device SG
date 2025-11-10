@@ -755,4 +755,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a7a0762de6706983",
+        "key": "sgannie",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
