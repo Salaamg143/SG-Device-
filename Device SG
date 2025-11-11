@@ -773,4 +773,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "8b59b2e98e50273c",
+        "key": "sgrobabrobab",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
