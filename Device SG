@@ -821,4 +821,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e5dc6a5851ab58d7",
+        "key": "sgprincemeow",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
