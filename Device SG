@@ -815,4 +815,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "5a397ea0e1770831",
+        "key": "sglucags",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
