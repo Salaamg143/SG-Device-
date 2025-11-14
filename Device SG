@@ -851,4 +851,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "07b65cde508b57a4",
+        "key": "sgahmedhaker",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
