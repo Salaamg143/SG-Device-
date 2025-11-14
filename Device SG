@@ -845,4 +845,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "f1d7de431e541237",
+        "key": "sgwuhwin",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
