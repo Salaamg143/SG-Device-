@@ -911,4 +911,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "6acbdfa4b9acee78",
+        "key": "sgbanglasg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
