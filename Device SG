@@ -953,4 +953,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "f642a32677c85e94",
+        "key": "sgaryaanbsh",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
