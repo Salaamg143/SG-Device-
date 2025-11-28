@@ -1019,4 +1019,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "9acd02f09866bcce",
+        "key": "sgprofessorss",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
