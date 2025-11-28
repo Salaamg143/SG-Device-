@@ -1037,4 +1037,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "16cfac1175f98af4",
+        "key": "sgwaseemgs",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
