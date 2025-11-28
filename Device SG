@@ -1007,4 +1007,16 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d99d840c78c321c2",
+        "key": "sganshika",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "0d273ec96c0c6474",
+        "key": "sghlowwww",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
