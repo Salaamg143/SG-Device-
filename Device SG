@@ -1109,4 +1109,22 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "f7c77d3ef3b65d2c",
+        "key": "sglocalking",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "fb2773654b2da34a",
+        "key": "sgvikashsgh",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "cbb40f3b2a76f46d",
+        "key": "sgaahatpakhg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
