@@ -1091,4 +1091,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "59af51a349c4532a",
+        "key": "sgbunnysga",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
