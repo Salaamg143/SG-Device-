@@ -1043,4 +1043,52 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "30096042a01ef193",
+        "key": "sgaryansg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "7dd8ea32995c6dee",
+        "key": "sgrajit",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "0c5ff9e3fabede89",
+        "key": "sgbhaisg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "8ec034e05eafd435",
+        "key": "sgchristusg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "2043d293aad7dac0",
+        "key": "sgvishya",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "e35365b4aae949d6",
+        "key": "sgmonimitu",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "2b88a455cb8bcf1b",
+        "key": "sgashusg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "b2ffdc5428ed4647",
+        "key": "sgmrdeepsg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
