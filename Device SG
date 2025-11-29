@@ -1103,4 +1103,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "89d2b4aaa206073c",
+        "key": "sgpiniksg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
