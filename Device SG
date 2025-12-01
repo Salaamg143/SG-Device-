@@ -1157,4 +1157,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "80e320d5c610f44e",
+        "key": "sgbrokensg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
