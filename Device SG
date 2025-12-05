@@ -1253,4 +1253,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ee0d555c71b85983",
+        "key": "sgalexshs",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
