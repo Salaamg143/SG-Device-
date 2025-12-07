@@ -1259,4 +1259,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "0dc5dc9f1f5d872b",
+        "key": "sginoshan",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
