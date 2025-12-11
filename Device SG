@@ -1301,4 +1301,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "6ea96eb6b113c2e4",
+        "key": "sghotchipsah",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
