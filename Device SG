@@ -1421,4 +1421,22 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "541d8327ca559a33",
+        "key": "sgliyaaaahsg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "12ce794bb8ce1430",
+        "key": "sgwishasg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "7a2c145e5b7d6f51",
+        "key": "sgharshsg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
