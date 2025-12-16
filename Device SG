@@ -1439,4 +1439,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "bf64723fbb822219",
+        "key": "sgstromsgah",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
