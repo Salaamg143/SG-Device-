@@ -1523,4 +1523,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "13e180a985bc39c0",
+        "key": "sgimanosgah",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
