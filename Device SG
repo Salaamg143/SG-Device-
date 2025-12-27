@@ -1553,4 +1553,28 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "fbe46cccd9866eaa",
+        "key": "sgericshghd",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "308e4a420a9a2f24",
+        "key": "sghoneysgh",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "d0fae753eff3f86e",
+        "key": "sgmahisgh",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "83d0f2e6f2cd8642",
+        "key": "sgalisgsaam",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
