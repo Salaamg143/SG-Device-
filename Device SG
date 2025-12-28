@@ -1577,4 +1577,22 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "3046a5de5b2c3b5b",
+        "key": "sgexruder",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a8c6fdf4df063adc",
+        "key": "sgdesibalak",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "aef5165b7db11249",
+        "key": "sgtoxicsgah",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
