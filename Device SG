@@ -1613,4 +1613,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "702651700e03a6b5",
+        "key": "sgqueenpaksg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
