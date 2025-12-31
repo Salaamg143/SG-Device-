@@ -1619,4 +1619,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "3b6fc61be5706b78",
+        "key": "sgalon2sg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
