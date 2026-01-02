@@ -1631,4 +1631,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "b916c7bd0577774d",
+        "key": "sgvictoriasm",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
