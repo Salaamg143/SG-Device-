@@ -1637,4 +1637,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "b7731ff297256668",
+        "key": "sgchocolatesga",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
