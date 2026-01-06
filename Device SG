@@ -1643,4 +1643,16 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "7e204979244fa8a3",
+        "key": "sgappujani",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "95fd2f2abbc4d6d5",
+        "key": "sghotchipsa",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
