@@ -1655,4 +1655,16 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1f55d6cd43027fb1",
+        "key": "sgdavidshag",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a14616b596728808",
+        "key": "sgammusgah",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
