@@ -1709,4 +1709,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "b59b6bb776bef388",
+        "key": "sgmahikhansh",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
