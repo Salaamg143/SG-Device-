@@ -1745,4 +1745,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e37574f3c77a3a09",
+        "key": "sgalonesghaj",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
