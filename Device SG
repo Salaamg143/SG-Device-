@@ -1787,4 +1787,22 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "bf7bc234f98f0d03",
+        "key": "sghamzaalikh",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "792396e83f8589e3",
+        "key": "sglitelsga",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "b9af021c459a3714",
+        "key": "sgsanjeebkumaarsg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
