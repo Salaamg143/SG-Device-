@@ -1829,4 +1829,22 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "df6adcb3bca5b9e0",
+        "key": "sgzulqarnainsm",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "287c715d2dc40ca1",
+        "key": "sgyova2sg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "77694e136ee71c3b",
+        "key": "sgmoomsgahg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
