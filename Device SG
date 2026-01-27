@@ -1883,4 +1883,16 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "f9fc14397557ea0e",
+        "key": "sgsayedash",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "0562e73ecb9201b1",
+        "key": "sgsantoshasg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 ]
