@@ -1919,5 +1919,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "12ed1eaa80bd826b",
+        "key": "sgexpensiveshfj",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
