@@ -1925,5 +1925,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ba743f885483a86d",
+        "key": "sgwaseembhai",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
