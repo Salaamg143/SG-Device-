@@ -1937,5 +1937,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "4fc8d1823aa50859",
+        "key": "sgimranmalikshag",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
