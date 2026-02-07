@@ -1949,5 +1949,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "65b5dd2fd4dc15f3",
+        "key": "sgzhorasgha",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
