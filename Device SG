@@ -1943,5 +1943,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "2d0c3fd6eec4ae32",
+        "key": "sgwaseemimdia",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
