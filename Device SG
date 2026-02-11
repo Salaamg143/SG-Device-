@@ -1967,5 +1967,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "372cbdf0337cea1b",
+        "key": "sgakrita",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
