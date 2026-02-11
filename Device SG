@@ -1955,5 +1955,17 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a7bdd6d2281de68e",
+        "key": "sgladlasha",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "663d7fe3b05893fd",
+        "key": "sgalexhsg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
