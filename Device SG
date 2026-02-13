@@ -1973,5 +1973,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e0eac869619a8524",
+        "key": "sglegendsgaj",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
