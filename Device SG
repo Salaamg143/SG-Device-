@@ -1979,5 +1979,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1042d1291223491f",
+        "key": "sgrajveersha",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
