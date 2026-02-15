@@ -1991,5 +1991,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "5e69ce9b11ccf8bc",
+        "key": "sgxsadd",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
