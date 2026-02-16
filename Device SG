@@ -1997,5 +1997,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "60314db4ad2952cd",
+        "key": "sgtoxicbaji",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
