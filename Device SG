@@ -2003,5 +2003,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a328d28845631c7e",
+        "key": "sgchoclo",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
