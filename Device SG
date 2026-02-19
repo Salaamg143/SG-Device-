@@ -2021,5 +2021,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1f800b767d8f3289",
+        "key": "sgpower",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
