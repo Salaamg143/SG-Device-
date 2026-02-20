@@ -2027,5 +2027,17 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "02d051541e075f84",
+        "key": "sgdateshop",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "3fc5d14952156572",
+        "key": "sgunkno",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
