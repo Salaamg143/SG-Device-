@@ -2069,5 +2069,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "91bf7d1bfe0b2100",
+        "key": "sgsdixjan",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
