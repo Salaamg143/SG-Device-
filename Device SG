@@ -2075,5 +2075,23 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ac1612a5b9128fb2",
+        "key": "ZRL-LDVO-VQGC-T8DF",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "33816d8a15255e2e",
+        "key": "ZRL-BP3H-EQZ5-N0BA",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "db05f21eb89dc4fb",
+        "key": "ZRL-BX0V-X30W-MYF0",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
