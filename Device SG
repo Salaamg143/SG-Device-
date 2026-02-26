@@ -2111,5 +2111,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "457aae1b2d829158",
+        "key": "ZRL-7280-ZQ4K-3237",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
