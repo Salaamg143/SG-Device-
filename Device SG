@@ -2093,5 +2093,23 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "08e1ad8e3c32a807",
+        "key": "ZRL-9GN3-8UTH-G8JG",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "d62be00a5f03bfcb",
+        "key": "ZRL-UNSY-OZCV-C1V8",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "d62be00a5f03bfcb",
+        "key": "ZRL-YJBJ-SM50-XPHO",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
