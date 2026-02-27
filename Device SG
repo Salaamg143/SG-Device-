@@ -2117,5 +2117,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "2c553f0978e0bd1a",
+        "key": "ZRL-5IWV-A98S-951J",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
