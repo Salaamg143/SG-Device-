@@ -2123,5 +2123,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e6f310016df3a2a4",
+        "key": "ZRL-0PXZ-L8K6-3K2R",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
