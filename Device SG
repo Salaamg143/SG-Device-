@@ -2123,5 +2123,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d13d89117cb6fd96",
+        "key": "sgzalimassistant",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
