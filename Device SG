@@ -2141,5 +2141,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "0b3eabd80fcae623",
+        "key": "sgvenomsghf",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
