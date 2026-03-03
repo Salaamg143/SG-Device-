@@ -2135,5 +2135,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "734d2b4093dd612c",
+        "key": "sgleobhai",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
