@@ -2201,5 +2201,17 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "fb9979df01af529c",
+        "key": "sgkhanzadag",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "1cfc1a831aea6ea2",
+        "key": "sggujarraja",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
