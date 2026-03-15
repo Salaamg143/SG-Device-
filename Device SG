@@ -2231,5 +2231,17 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "61fbfc5b1f910a34",
+        "key": "sgofficialshivasg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dd0ac3368d3be984",
+        "key": "sgriyashg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
