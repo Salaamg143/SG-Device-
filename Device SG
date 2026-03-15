@@ -2243,5 +2243,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1de5f8ac6e5c11c2",
+        "key": "sgprincesssjg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
