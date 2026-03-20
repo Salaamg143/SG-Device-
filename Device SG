@@ -2315,5 +2315,17 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e8a29aec001da92a",
+        "key": "sgpagalpantish",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "e3e74daa24f79645",
+        "key": "sgereksg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
