@@ -2327,5 +2327,17 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "721600288c376946",
+        "key": "sgsuman",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "493d46eb3055967c",
+        "key": "sgbehshg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
