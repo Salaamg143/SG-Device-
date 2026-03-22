@@ -2345,5 +2345,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "8a7ba8e8e835e74a",
+        "key": "sganshusjha",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
