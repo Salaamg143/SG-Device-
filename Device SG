@@ -2387,5 +2387,24 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "37415c7d12f23760",
+        "key": "sgproshga",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },    
+    {
+        "device_id": "7244939704632f71",
+        "key": "sgmanchosh",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "e35b6d9ec37112c1",
+        "key": "sgsattish",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+
 
 ]
