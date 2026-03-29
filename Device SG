@@ -2405,6 +2405,12 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "234d5708b098c4cf",
+        "key": "sgadminshg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 
 ]
