@@ -2453,6 +2453,12 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d0d4adcbaf2f5d3d",
+        "key": "sgapnhga",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 
 ]
