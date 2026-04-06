@@ -2501,5 +2501,17 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "00c6c04317026a49",
+        "key": "sgmithyicsg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "581160a3d5350c58",
+        "key": "sgbilalshv",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
