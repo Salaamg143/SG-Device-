@@ -2549,5 +2549,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e1a9cd8e95d21b59",
+        "key": "sgdadprincesshkh",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
