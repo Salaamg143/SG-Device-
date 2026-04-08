@@ -2579,5 +2579,17 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "139c82dda1f5a637",
+        "key": "sgdanialfhd",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "19e26e97356f0c0f",
+        "key": "sgaestheticshg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
