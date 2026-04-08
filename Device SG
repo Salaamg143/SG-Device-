@@ -2573,5 +2573,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "0601761fb1d7045e",
+        "key": "sgcarelissbag",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
