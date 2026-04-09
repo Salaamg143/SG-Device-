@@ -2597,5 +2597,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "65e59ea5daa1f583",
+        "key": "sgcicelshag",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
