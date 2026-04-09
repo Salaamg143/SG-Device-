@@ -2591,5 +2591,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e4a79b89ebb78923",
+        "key": "sgaswinfhd",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
