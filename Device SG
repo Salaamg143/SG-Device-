@@ -2645,5 +2645,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "8fce835f8a810653",
+        "key": "sgbabershg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
