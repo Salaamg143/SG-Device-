@@ -2663,5 +2663,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "4f46d8b3a6710b81",
+        "key": "sgnioalishag",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
