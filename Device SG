@@ -2711,5 +2711,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "c6c8918ac2e37ee8",
+        "key": "sgacuuravshg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
