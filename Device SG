@@ -2735,5 +2735,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a2dfce54d7efa242",
+        "key": "sgrachersgd",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
