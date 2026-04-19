@@ -2753,5 +2753,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d8f26c723c40daa5",
+        "key": "sgparnomisns",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
