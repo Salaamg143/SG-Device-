@@ -2783,5 +2783,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1ed7d3407b4be6ad",
+        "key": "sgaakhst",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
