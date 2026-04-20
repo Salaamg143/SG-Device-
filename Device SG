@@ -2789,5 +2789,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "9f32e255483e5919",
+        "key": "sgchuteoanchus",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
