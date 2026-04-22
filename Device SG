@@ -2837,5 +2837,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e523186a92a37b25",
+        "key": "sgsalaarsnv",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
