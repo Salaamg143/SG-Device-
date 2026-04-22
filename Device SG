@@ -2813,5 +2813,29 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "08abe8c50c60accf",
+        "key": "sgmramaanshg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "d5c894d91d38f2cc",
+        "key": "sgmarcosjsg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "d5c894d91d38f2cc",
+        "key": "sgtradebyhir",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "5ee10d7217784c57",
+        "key": "sgchutisngf",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
