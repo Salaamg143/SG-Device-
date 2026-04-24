@@ -2855,5 +2855,17 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d23e0cc9a91270f3",
+        "key": "sgminaish",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "9d340e29780a632a",
+        "key": "sgloversjsv",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
