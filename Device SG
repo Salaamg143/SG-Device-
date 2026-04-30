@@ -2909,5 +2909,17 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "deeb9f1092b784f7",
+        "key": "sgooldha",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "0c0910792c1773ac",
+        "key": "sgspiderhsf",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
