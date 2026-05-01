@@ -2927,5 +2927,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1a2719779983c3ba",
+        "key": "sgexamskg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
