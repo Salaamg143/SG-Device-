@@ -2962,5 +2962,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "cd49d4d309b82469",
+        "key": "sgshahfriendshg",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
