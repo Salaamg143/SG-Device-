@@ -2985,5 +2985,23 @@
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a787126186d388e3",
+        "key": "sgnewhater",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "1f5c66db9ea45aea",
+        "key": "sgcrushgf",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "e4bacd53ff07bf4e",
+        "key": "sgdhahjifriendsh",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    },
 
 ]
